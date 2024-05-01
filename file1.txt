@@ -7,3 +7,5 @@ changed to branch1
 changed to branch2
 
 aaded lines extra 
+
+deleted branch1
